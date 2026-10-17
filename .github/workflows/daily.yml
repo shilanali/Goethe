@@ -1,0 +1,20 @@
+name: Goethe B1 Daily
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # كل يوم 15:00 UTC (18:00 بتوقيت دمشق)
+  workflow_dispatch:        # تشغيل يدوي للتجربة
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests gTTS
+      - run: python goethe_b1_bot.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
