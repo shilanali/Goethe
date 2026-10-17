@@ -1,0 +1,171 @@
+[
+{"skill":"lesen","topic":"Arbeit","text":"Liebe Frau Weber, leider kann ich am Montag nicht zur Besprechung kommen, weil mein Sohn krank ist. Ich bleibe zu Hause und arbeite von dort aus. Die Unterlagen für das Treffen schicke ich Ihnen heute Abend per E-Mail. Wenn es nötig ist, können wir am Dienstag telefonieren. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Tarek Hamdan","questions":[
+{"q":"Warum kommt Herr Hamdan am Montag nicht zur Besprechung?","options":["Er hat Urlaub","Sein Sohn ist krank","Er hat einen anderen Termin"],"correct":1,"explanation":"النص: weil mein Sohn krank ist — بسبب مرض ابنه."},
+{"q":"Was schickt er heute Abend?","options":["Die Unterlagen","Eine Einladung","Einen Krankenschein"],"correct":0,"explanation":"Die Unterlagen für das Treffen schicke ich heute Abend — يرسل الأوراق بالبريد."},
+{"q":"Wann können sie telefonieren?","options":["Am Montag","Am Dienstag, wenn es nötig ist","Am Wochenende"],"correct":1,"explanation":"Wenn es nötig ist, können wir am Dienstag telefonieren."}]},
+
+{"skill":"hoeren","topic":"Reisen","text":"Achtung an Gleis 4: Der Zug nach München hat etwa 20 Minuten Verspätung. Grund ist eine Störung an der Strecke. Der Zug fährt voraussichtlich um 15:45 Uhr ab. Reisende nach Augsburg steigen bitte in Ulm um. Wir bitten um Entschuldigung.","questions":[
+{"q":"Warum hat der Zug Verspätung?","options":["Wegen des Wetters","Wegen einer Störung an der Strecke","Wegen zu wenig Personal"],"correct":1,"explanation":"Grund ist eine Störung an der Strecke — السبب عطل على الخط."},
+{"q":"Wann fährt der Zug voraussichtlich ab?","options":["15:25 Uhr","15:45 Uhr","16:05 Uhr"],"correct":1,"explanation":"voraussichtlich um 15:45 Uhr — الانطلاق المتوقع 15:45."},
+{"q":"Was sollen Reisende nach Augsburg tun?","options":["In Ulm umsteigen","Am Gleis 4 warten","Das Ticket umtauschen"],"correct":0,"explanation":"Reisende nach Augsburg steigen in Ulm um — يغيّرون القطار في أولم."}]},
+
+{"skill":"grammatik","topic":"Nebensätze","text":"Nebensätze mit weil, dass, obwohl, ob: Das konjugierte Verb steht am Ende. Beispiel: Ich bleibe zu Hause, weil ich krank bin.","questions":[
+{"q":"Ich lerne Deutsch, weil ich in Deutschland ____.","options":["studieren will","will studieren","studiere will"],"correct":0,"explanation":"في الجملة الفرعية يأتي الفعل المصرّف في النهاية: studieren will."},
+{"q":"Er sagt, dass er morgen nicht ____.","options":["komme","kommt","kommen"],"correct":1,"explanation":"er → kommt، والفعل في نهاية الجملة الفرعية."},
+{"q":"Welcher Satz ist richtig?","options":["Obwohl es regnet, gehen wir spazieren.","Obwohl es regnet, wir gehen spazieren.","Obwohl es regnet, wir spazieren gehen."],"correct":0,"explanation":"بعد الجملة الفرعية يأتي الفعل مباشرة في الجملة الرئيسية: gehen wir."},
+{"q":"Ich weiß nicht, ob er heute ____.","options":["Zeit hat","hat Zeit","Zeit haben"],"correct":0,"explanation":"بعد ob الفعل في النهاية: Zeit hat."},
+{"q":"Sie ist müde, ____ sie viel gearbeitet hat.","options":["weil","denn","deshalb"],"correct":0,"explanation":"الفعل hat في النهاية، لذلك weil. مع denn يأتي الفعل في المرتبة الثانية."}]},
+
+{"skill":"lesen","topic":"Wohnen","text":"Zu vermieten: Helle 2-Zimmer-Wohnung in Köln-Ehrenfeld, 58 m², 3. Stock mit Aufzug. Miete 720 Euro warm, Kaution drei Monatsmieten. Küche vorhanden. Haustiere nicht erlaubt. Besichtigung nur nach Absprache. Bitte nur Anfragen per E-Mail.","questions":[
+{"q":"Wie viel kostet die Wohnung im Monat?","options":["720 Euro warm","720 Euro kalt","58 Euro"],"correct":0,"explanation":"Miete 720 Euro warm — شامل المصاريف الإضافية."},
+{"q":"Was ist in der Wohnung nicht erlaubt?","options":["Besuch","Musik","Haustiere"],"correct":2,"explanation":"Haustiere nicht erlaubt — الحيوانات الأليفة ممنوعة."},
+{"q":"Wie kann man den Vermieter kontaktieren?","options":["Per Telefon","Per E-Mail","Persönlich"],"correct":1,"explanation":"Bitte nur Anfragen per E-Mail."}]},
+
+{"skill":"hoeren","topic":"Gesundheit","text":"Guten Tag, Sie sind verbunden mit der Praxis von Doktor Meier. Unsere Sprechzeiten sind montags bis freitags von acht bis zwölf Uhr und am Dienstag und Donnerstag auch von vierzehn bis achtzehn Uhr. Am Mittwochnachmittag ist die Praxis geschlossen. In dringenden Fällen rufen Sie bitte den ärztlichen Bereitschaftsdienst an.","questions":[
+{"q":"Wann ist die Praxis am Freitag geöffnet?","options":["Nur vormittags","Nur nachmittags","Den ganzen Tag"],"correct":0,"explanation":"الجمعة فقط من 8 إلى 12، أي قبل الظهر."},
+{"q":"An welchen Tagen ist auch nachmittags geöffnet?","options":["Montag und Mittwoch","Dienstag und Donnerstag","Nur Freitag"],"correct":1,"explanation":"am Dienstag und Donnerstag auch von 14 bis 18 Uhr."},
+{"q":"Was soll man in dringenden Fällen tun?","options":["Eine E-Mail schreiben","Am nächsten Tag kommen","Den Bereitschaftsdienst anrufen"],"correct":2,"explanation":"In dringenden Fällen: ärztlicher Bereitschaftsdienst."}]},
+
+{"skill":"wortschatz","topic":"Arbeit","text":"Wortschatz Arbeit:\ndie Bewerbung = طلب التوظيف\nder Lebenslauf = السيرة الذاتية\ndas Vorstellungsgespräch = مقابلة العمل\ndie Stelle = الوظيفة\ndie Erfahrung = الخبرة\nsich bewerben = تقدّم بطلب\nkündigen = استقال أو أنهى العقد\ndas Gehalt = الراتب","questions":[
+{"q":"Ich möchte mich um die ____ als Ingenieur bewerben.","options":["Stelle","Gehalt","Erfahrung"],"correct":0,"explanation":"die Stelle = الوظيفة."},
+{"q":"Ein Dokument mit Ausbildung und Berufserfahrung heißt:","options":["Kündigung","Gehalt","Lebenslauf"],"correct":2,"explanation":"der Lebenslauf = السيرة الذاتية."},
+{"q":"Morgen habe ich ein ____ bei einer Firma.","options":["Gehalt","Vorstellungsgespräch","Stelle"],"correct":1,"explanation":"das Vorstellungsgespräch = مقابلة العمل."},
+{"q":"Er hat seinen Job aufgegeben. Er hat ____.","options":["sich beworben","verdient","gekündigt"],"correct":2,"explanation":"kündigen → hat gekündigt."},
+{"q":"Was bedeutet das Gehalt?","options":["Das Geld, das man monatlich für die Arbeit bekommt","Ein Arbeitsvertrag","Eine Besprechung"],"correct":0,"explanation":"das Gehalt = الراتب الشهري."}]},
+
+{"skill":"lesen","topic":"Gesundheit","text":"Immer mehr Menschen in Deutschland arbeiten im Büro und sitzen den ganzen Tag. Ärzte empfehlen deshalb, mindestens einmal pro Stunde aufzustehen und ein paar Schritte zu gehen. Auch Sport nach der Arbeit hilft gegen Rückenschmerzen. Viele Firmen bieten ihren Mitarbeitern kostenlose Kurse an, zum Beispiel Yoga oder Rückentraining.","questions":[
+{"q":"Was empfehlen Ärzte?","options":["Jede Stunde kurz aufstehen","Nur abends Sport machen","Weniger arbeiten"],"correct":0,"explanation":"mindestens einmal pro Stunde aufzustehen."},
+{"q":"Wogegen hilft Sport nach der Arbeit?","options":["Gegen Müdigkeit","Gegen Rückenschmerzen","Gegen Hunger"],"correct":1,"explanation":"Sport hilft gegen Rückenschmerzen."},
+{"q":"Was bieten viele Firmen an?","options":["Mehr Urlaub","Höheres Gehalt","Kostenlose Kurse"],"correct":2,"explanation":"kostenlose Kurse, zum Beispiel Yoga."}]},
+
+{"skill":"hoeren","topic":"Verkehr","text":"Hier ist der Verkehrsservice. Auf der Autobahn A8 Richtung Stuttgart gibt es zwischen Ulm und Augsburg einen Unfall. Es staut sich auf zehn Kilometern. Fahrer sollten die Autobahn bei Günzburg verlassen und der Umleitung folgen. Auf der A7 ist der Verkehr dagegen frei.","questions":[
+{"q":"Wo ist der Unfall?","options":["Zwischen Ulm und Augsburg","Bei Stuttgart","Auf der A7"],"correct":0,"explanation":"zwischen Ulm und Augsburg auf der A8."},
+{"q":"Wie lang ist der Stau?","options":["Fünf Kilometer","Zehn Kilometer","Zwanzig Kilometer"],"correct":1,"explanation":"Es staut sich auf zehn Kilometern."},
+{"q":"Was sollen Fahrer tun?","options":["Auf der Autobahn warten","Die A7 benutzen","Bei Günzburg abfahren und der Umleitung folgen"],"correct":2,"explanation":"die Autobahn bei Günzburg verlassen und der Umleitung folgen."}]},
+
+{"skill":"grammatik","topic":"Konjunktiv II","text":"Konjunktiv II: für Wünsche, irreale Bedingungen und höfliche Bitten. Beispiele: Ich hätte gern einen Kaffee. Wenn ich Zeit hätte, würde ich reisen. Könnten Sie mir helfen?","questions":[
+{"q":"Wenn ich mehr Geld ____, würde ich ein Haus kaufen.","options":["hätte","habe","hatte"],"correct":0,"explanation":"الشرط غير الواقعي يتطلب Konjunktiv II: hätte."},
+{"q":"Welche Frage ist besonders höflich?","options":["Könnten Sie mir bitte helfen?","Hilfst du mir?","Sie helfen mir!"],"correct":0,"explanation":"Könnten Sie... هو الصيغة الأكثر لباقة."},
+{"q":"Ich ____ gern ein Glas Wasser.","options":["habe","hätte","hatte"],"correct":1,"explanation":"Ich hätte gern = أودّ الحصول على (طلب مهذّب)."},
+{"q":"Wenn er nicht krank wäre, ____ er zur Arbeit gehen.","options":["wird","wollte","würde"],"correct":2,"explanation":"würde + Infinitiv لوصف الحالة غير الواقعية."},
+{"q":"An deiner Stelle ____ ich das nicht tun.","options":["werde","würde","wurde"],"correct":1,"explanation":"An deiner Stelle würde ich... = لو كنت مكانك."}]},
+
+{"skill":"lesen","topic":"Schule und Studium","text":"Die Volkshochschule bietet im Herbst neue Sprachkurse an. Die Kurse beginnen am 5. Oktober und dauern zehn Wochen. Eine Anmeldung ist online oder im Büro möglich. Für Teilnehmer unter 25 Jahren gibt es eine Ermäßigung von 20 Prozent. Die Kursgebühr muss spätestens eine Woche vor Kursbeginn bezahlt werden.","questions":[
+{"q":"Wie lange dauern die Kurse?","options":["Zehn Wochen","Fünf Wochen","Ein Jahr"],"correct":0,"explanation":"Die Kurse dauern zehn Wochen."},
+{"q":"Wer bekommt eine Ermäßigung?","options":["Alle Teilnehmer","Teilnehmer unter 25 Jahren","Teilnehmer über 60 Jahren"],"correct":1,"explanation":"Ermäßigung für Teilnehmer unter 25."},
+{"q":"Wann muss man die Kursgebühr bezahlen?","options":["Am ersten Kurstag","Nach dem Kurs","Spätestens eine Woche vor Kursbeginn"],"correct":2,"explanation":"spätestens eine Woche vor Kursbeginn."}]},
+
+{"skill":"hoeren","topic":"Einkaufen","text":"Liebe Kunden, heute im Supermarkt: Äpfel aus der Region kosten nur 1,99 Euro pro Kilo. Alle Milchprodukte sind bis zum Wochenende 20 Prozent günstiger. Achtung: Die Bäckerei schließt heute schon um 17 Uhr. Wir wünschen Ihnen einen angenehmen Einkauf.","questions":[
+{"q":"Was kostet 1,99 Euro pro Kilo?","options":["Äpfel","Milch","Brot"],"correct":0,"explanation":"Äpfel aus der Region: 1,99 Euro pro Kilo."},
+{"q":"Was ist bis zum Wochenende günstiger?","options":["Obst","Fleisch","Milchprodukte"],"correct":2,"explanation":"Milchprodukte sind 20 Prozent günstiger."},
+{"q":"Wann schließt die Bäckerei heute?","options":["Um 19 Uhr","Um 17 Uhr","Um 20 Uhr"],"correct":1,"explanation":"Die Bäckerei schließt heute schon um 17 Uhr."}]},
+
+{"skill":"wortschatz","topic":"Reisen","text":"Wortschatz Reisen:\ndas Gleis = الرصيف\ndie Verspätung = التأخير\numsteigen = غيّر القطار\nder Fahrplan = جدول الرحلات\ndie Fahrkarte = التذكرة\ndie Ankunft = الوصول\ndie Abfahrt = المغادرة\ndas Gepäck = الأمتعة","questions":[
+{"q":"Der Zug hat 20 Minuten ____.","options":["Verspätung","Abfahrt","Gleis"],"correct":0,"explanation":"die Verspätung = التأخير."},
+{"q":"Wo kann ich die Abfahrtszeiten sehen?","options":["Im Gepäck","Im Fahrplan","Am Gleis"],"correct":1,"explanation":"der Fahrplan = جدول المواعيد."},
+{"q":"Man braucht eine ____, um mit dem Zug zu fahren.","options":["Ankunft","Verspätung","Fahrkarte"],"correct":2,"explanation":"die Fahrkarte = التذكرة."},
+{"q":"Der Zug fährt nicht direkt, ich muss in Hamburg ____.","options":["umsteigen","ankommen","verpassen"],"correct":0,"explanation":"umsteigen = تغيير القطار."},
+{"q":"Was bedeutet das Wort Gepäck?","options":["Die Abfahrtszeit","Das Ticket","Die Koffer und Taschen auf einer Reise"],"correct":2,"explanation":"das Gepäck = الأمتعة."}]},
+
+{"skill":"lesen","topic":"Freizeit","text":"Am Wochenende findet im Stadtpark ein Flohmarkt statt. Von 9 bis 16 Uhr können Besucher gebrauchte Kleidung, Bücher und Spielzeug kaufen. Wer selbst einen Stand haben möchte, muss sich bis Donnerstag anmelden und zahlt 10 Euro. Bei schlechtem Wetter wird der Markt auf den folgenden Sonntag verschoben.","questions":[
+{"q":"Was kann man auf dem Flohmarkt kaufen?","options":["Gebrauchte Sachen","Neue Möbel","Lebensmittel"],"correct":0,"explanation":"gebrauchte Kleidung, Bücher und Spielzeug."},
+{"q":"Was kostet ein Stand?","options":["20 Euro","10 Euro","Nichts"],"correct":1,"explanation":"Wer einen Stand möchte, zahlt 10 Euro."},
+{"q":"Was passiert bei schlechtem Wetter?","options":["Der Markt fällt aus","Der Markt findet in einer Halle statt","Der Markt wird auf Sonntag verschoben"],"correct":2,"explanation":"auf den folgenden Sonntag verschoben."}]},
+
+{"skill":"hoeren","topic":"Familie","text":"Hallo Lena, hier ist Mama. Ich wollte nur sagen, dass wir am Samstag doch nicht zum Essen kommen können. Papa hat leider Grippe und liegt im Bett. Können wir stattdessen nächsten Sonntag zusammen frühstücken? Ruf mich bitte heute Abend zurück. Bis bald!","questions":[
+{"q":"Warum kommen die Eltern am Samstag nicht?","options":["Papa ist krank","Sie haben keine Zeit","Das Auto ist kaputt"],"correct":0,"explanation":"Papa hat Grippe — الأب مصاب بالإنفلونزا."},
+{"q":"Was schlägt die Mutter vor?","options":["Abendessen am Freitag","Frühstück am nächsten Sonntag","Mittagessen am Samstag"],"correct":1,"explanation":"nächsten Sonntag zusammen frühstücken."},
+{"q":"Was soll Lena tun?","options":["Eine E-Mail schreiben","Zu den Eltern fahren","Heute Abend zurückrufen"],"correct":2,"explanation":"Ruf mich heute Abend zurück."}]},
+
+{"skill":"grammatik","topic":"Passiv","text":"Passiv: werden + Partizip II. Präsens: Das Auto wird repariert. Präteritum: Das Auto wurde repariert.","questions":[
+{"q":"Die Wohnung ____ gerade renoviert.","options":["wird","wurde","worden"],"correct":0,"explanation":"gerade = الآن، فنستخدم Präsens: wird."},
+{"q":"Gestern ____ das Paket geliefert.","options":["wird","wurde","worden"],"correct":1,"explanation":"gestern = الماضي: wurde."},
+{"q":"Welcher Satz ist Passiv?","options":["Er schreibt den Brief.","Er hat den Brief geschrieben.","Der Brief wird geschrieben."],"correct":2,"explanation":"المبني للمجهول: werden + Partizip II."},
+{"q":"In Deutschland ____ viel Fahrrad gefahren.","options":["werden","wird","wurden"],"correct":1,"explanation":"passiv بدون فاعل: es wird gefahren → wird."},
+{"q":"Das Fenster ____ von dem Kind zerbrochen.","options":["wurde","hat","ist"],"correct":0,"explanation":"Passiv Präteritum: wurde zerbrochen."}]},
+
+{"skill":"lesen","topic":"Umwelt","text":"In vielen deutschen Städten gibt es ein Pfandsystem für Flaschen. Beim Kauf zahlt man 25 Cent Pfand pro Plastikflasche. Gibt man die leere Flasche im Supermarkt zurück, bekommt man das Geld wieder. So werden die meisten Flaschen recycelt und weniger Müll landet in der Natur.","questions":[
+{"q":"Wie viel Pfand zahlt man pro Plastikflasche?","options":["1 Euro","50 Cent","25 Cent"],"correct":2,"explanation":"25 Cent Pfand pro Plastikflasche."},
+{"q":"Wo gibt man die leeren Flaschen zurück?","options":["Bei der Post","Im Supermarkt","Im Rathaus"],"correct":1,"explanation":"im Supermarkt zurückgeben."},
+{"q":"Was ist der Vorteil des Systems?","options":["Weniger Müll landet in der Natur","Die Getränke werden billiger","Es gibt mehr Plastik"],"correct":0,"explanation":"weniger Müll landet in der Natur."}]},
+
+{"skill":"hoeren","topic":"Technik","text":"Der neue Laptop Tech 15 ist jetzt im Angebot: nur 499 Euro statt 649 Euro. Das Gerät hat einen schnellen Prozessor und einen Akku, der bis zu zwölf Stunden hält. Das Angebot gilt nur bis Freitag und nur in unseren Filialen, nicht im Online-Shop. Kommen Sie vorbei!","questions":[
+{"q":"Was kostet der Laptop im Angebot?","options":["649 Euro","499 Euro","549 Euro"],"correct":1,"explanation":"nur 499 Euro statt 649 Euro."},
+{"q":"Wie lange hält der Akku?","options":["Bis zu acht Stunden","Bis zu zwanzig Stunden","Bis zu zwölf Stunden"],"correct":2,"explanation":"bis zu zwölf Stunden."},
+{"q":"Wo gilt das Angebot?","options":["Nur in den Filialen","Nur online","Überall"],"correct":0,"explanation":"nur in den Filialen, nicht im Online-Shop."}]},
+
+{"skill":"wortschatz","topic":"Wohnen","text":"Wortschatz Wohnen:\ndie Miete = الإيجار\ndie Kaution = التأمين\nder Vermieter = المؤجّر\nder Mieter = المستأجر\nder Umzug = الانتقال\ndie Nebenkosten = المصاريف الإضافية\nder Mietvertrag = عقد الإيجار\nmöbliert = مفروش","questions":[
+{"q":"Das Geld, das man jeden Monat für die Wohnung zahlt:","options":["Miete","Kaution","Umzug"],"correct":0,"explanation":"die Miete = الإيجار الشهري."},
+{"q":"Die ____ bekommt man nach dem Auszug zurück, wenn alles in Ordnung ist.","options":["Nebenkosten","Kaution","Miete"],"correct":1,"explanation":"die Kaution = مبلغ التأمين يُسترد."},
+{"q":"Wer besitzt die Wohnung und vermietet sie?","options":["Der Mieter","Der Nachbar","Der Vermieter"],"correct":2,"explanation":"der Vermieter = المؤجّر."},
+{"q":"Zu den ____ gehören Wasser, Heizung und Müll.","options":["Nebenkosten","Möbeln","Mietverträgen"],"correct":0,"explanation":"die Nebenkosten = المصاريف الإضافية."},
+{"q":"Was bedeutet möbliert?","options":["Ohne Küche","Mit Möbeln","Ohne Fenster"],"correct":1,"explanation":"möbliert = مفروش."}]},
+
+{"skill":"lesen","topic":"Verkehr","text":"Ab dem 1. Januar fahren die Busse in unserer Stadt häufiger. Zwischen 6 und 20 Uhr kommt alle zehn Minuten ein Bus, früher nur alle 15 Minuten. Dafür steigen die Preise leicht: Ein Einzelfahrschein kostet dann 2,90 Euro statt 2,70 Euro. Das Monatsticket bleibt unverändert bei 49 Euro.","questions":[
+{"q":"Wie oft fahren die Busse ab Januar?","options":["Alle 15 Minuten","Alle 20 Minuten","Alle zehn Minuten"],"correct":2,"explanation":"alle zehn Minuten, früher alle 15."},
+{"q":"Was kostet ein Einzelfahrschein ab Januar?","options":["2,70 Euro","2,90 Euro","49 Euro"],"correct":1,"explanation":"2,90 Euro statt 2,70 Euro."},
+{"q":"Was ändert sich beim Monatsticket?","options":["Es bleibt gleich","Es wird teurer","Es wird günstiger"],"correct":0,"explanation":"Das Monatsticket bleibt unverändert."}]},
+
+{"skill":"hoeren","topic":"Wohnen","text":"Liebe Bewohner, am Mittwoch wird das Wasser im Haus von 9 bis 13 Uhr abgestellt, weil ein Rohr repariert werden muss. Bitte füllen Sie vorher Wasser in Flaschen ab. Falls Sie Fragen haben, erreichen Sie mich unter der Nummer an der Haustür. Ihr Hausmeister, Herr Braun","questions":[
+{"q":"Was passiert am Mittwoch?","options":["Der Strom fällt aus","Die Heizung wird repariert","Das Wasser wird abgestellt"],"correct":2,"explanation":"das Wasser wird abgestellt — يُقطع الماء."},
+{"q":"Warum wird es abgestellt?","options":["Ein Rohr muss repariert werden","Die Rechnung ist nicht bezahlt","Jemand zieht um"],"correct":0,"explanation":"weil ein Rohr repariert werden muss."},
+{"q":"Was sollen die Bewohner vorher tun?","options":["Das Haus verlassen","Wasser in Flaschen abfüllen","Den Hausmeister anrufen"],"correct":1,"explanation":"Bitte füllen Sie vorher Wasser in Flaschen ab."}]},
+
+{"skill":"grammatik","topic":"Relativsätze","text":"Relativsatz: Der Relativpronomen richtet sich nach Genus und Kasus. Beispiele: Der Mann, der dort steht, ist mein Lehrer. Das Buch, das ich lese, ist spannend.","questions":[
+{"q":"Das ist der Mann, ____ im Büro arbeitet.","options":["der","die","das"],"correct":0,"explanation":"Mann مذكر ومرفوع: der."},
+{"q":"Die Frau, ____ ich gestern getroffen habe, ist Ärztin.","options":["der","die","das"],"correct":1,"explanation":"Frau مؤنث ومفعول به: die."},
+{"q":"Das Buch, ____ ich gelesen habe, war spannend.","options":["der","die","das"],"correct":2,"explanation":"Buch محايد ومفعول به: das."},
+{"q":"Die Kinder, ____ im Garten spielen, sind meine Nachbarn.","options":["die","der","den"],"correct":0,"explanation":"Kinder جمع ومرفوع: die."},
+{"q":"Das ist die Stadt, in ____ ich geboren wurde.","options":["die","der","dem"],"correct":1,"explanation":"in + Dativ، Stadt مؤنث: in der."}]},
+
+{"skill":"lesen","topic":"Arbeit","text":"Wir suchen ab sofort eine Verkäuferin oder einen Verkäufer für unser Bekleidungsgeschäft in der Innenstadt. Sie arbeiten 30 Stunden pro Woche, auch samstags. Wir erwarten Freundlichkeit und gute Deutschkenntnisse. Erfahrung im Verkauf ist von Vorteil, aber nicht notwendig. Bitte senden Sie Ihre Bewerbung an personal@mode-park.de.","questions":[
+{"q":"Wen sucht das Geschäft?","options":["Einen Koch","Einen Fahrer","Eine Verkäuferin oder einen Verkäufer"],"correct":2,"explanation":"Wir suchen eine Verkäuferin oder einen Verkäufer."},
+{"q":"Wie viele Stunden pro Woche arbeitet man?","options":["20 Stunden","30 Stunden","40 Stunden"],"correct":1,"explanation":"30 Stunden pro Woche, auch samstags."},
+{"q":"Was ist für die Stelle wichtig?","options":["Gute Deutschkenntnisse","Verkaufserfahrung ist Pflicht","Ein Führerschein"],"correct":0,"explanation":"الخبرة ليست إلزامية، لكن اللغة الألمانية الجيدة مطلوبة."}]},
+
+{"skill":"hoeren","topic":"Freizeit","text":"Willkommen beim Cinema Central. Heute Abend läuft der Film Berlin 1989 um 20:15 Uhr in Saal 3. Die Karten kosten für Studenten 7 Euro, für Erwachsene 10 Euro. Reservierungen sind bis eine Stunde vor Beginn möglich. Bitte schalten Sie während der Vorstellung Ihr Handy aus.","questions":[
+{"q":"Wann beginnt der Film?","options":["Um 20:15 Uhr","Um 20:45 Uhr","Um 21:00 Uhr"],"correct":0,"explanation":"um 20:15 Uhr in Saal 3."},
+{"q":"Was kostet die Karte für Studenten?","options":["5 Euro","7 Euro","10 Euro"],"correct":1,"explanation":"für Studenten 7 Euro."},
+{"q":"Bis wann kann man reservieren?","options":["Bis zum Morgen","Nur am Eingang","Bis eine Stunde vor Beginn"],"correct":2,"explanation":"bis eine Stunde vor Beginn."}]},
+
+{"skill":"wortschatz","topic":"Gesundheit","text":"Wortschatz Gesundheit:\nder Termin = الموعد\ndie Sprechstunde = ساعات الاستقبال\ndas Rezept = الوصفة الطبية\ndie Apotheke = الصيدلية\ndie Schmerzen = الألم\ndie Krankenkasse = التأمين الصحي\ndas Medikament = الدواء\nder Husten = السعال","questions":[
+{"q":"Ich brauche einen ____ beim Arzt.","options":["Termin","Husten","Apotheke"],"correct":0,"explanation":"einen Termin = موعد."},
+{"q":"Medikamente bekommt man in der ____.","options":["Krankenkasse","Apotheke","Sprechstunde"],"correct":1,"explanation":"die Apotheke = الصيدلية."},
+{"q":"Der Arzt schreibt ein ____ für das Medikament.","options":["Husten","Termin","Rezept"],"correct":2,"explanation":"das Rezept = الوصفة."},
+{"q":"Ich habe starke ____ im Rücken.","options":["Schmerzen","Termine","Rezepte"],"correct":0,"explanation":"Schmerzen = آلام."},
+{"q":"Die ____ bezahlt viele Kosten für die Behandlung.","options":["Apotheke","Krankenkasse","Sprechstunde"],"correct":1,"explanation":"die Krankenkasse = شركة التأمين الصحي."}]},
+
+{"skill":"lesen","topic":"Essen","text":"In Deutschland essen viele Menschen mittags warm und abends kalt. Das Abendbrot besteht oft aus Brot, Käse, Wurst und Salat. Immer mehr Deutsche essen jedoch weniger Fleisch, und vegetarische Gerichte werden beliebter. Viele Restaurants haben deshalb inzwischen eine eigene vegetarische Speisekarte.","questions":[
+{"q":"Wie essen viele Menschen in Deutschland abends?","options":["Meistens kalt","Meistens warm","Gar nicht"],"correct":0,"explanation":"mittags warm und abends kalt."},
+{"q":"Was wird immer beliebter?","options":["Fast Food","Vegetarisches Essen","Mehr Fleisch"],"correct":1,"explanation":"vegetarische Gerichte werden beliebter."},
+{"q":"Was haben viele Restaurants inzwischen?","options":["Längere Öffnungszeiten","Mehr Fleischgerichte","Eine vegetarische Speisekarte"],"correct":2,"explanation":"eine eigene vegetarische Speisekarte."}]},
+
+{"skill":"hoeren","topic":"Studium","text":"Herzlich willkommen an der Universität. Die Einführungswoche für neue Studierende beginnt am Montag um 10 Uhr im Hörsaal 1. Dort erhalten Sie Ihren Stundenplan und Informationen zur Bibliothek. Bitte bringen Sie Ihren Studentenausweis und einen Personalausweis mit. Am Mittwoch findet außerdem eine Campusführung statt.","questions":[
+{"q":"Wo beginnt die Einführungswoche?","options":["In der Mensa","In der Bibliothek","Im Hörsaal 1"],"correct":2,"explanation":"um 10 Uhr im Hörsaal 1."},
+{"q":"Was bekommt man dort?","options":["Den Stundenplan","Ein Stipendium","Ein Zeugnis"],"correct":0,"explanation":"Sie erhalten Ihren Stundenplan."},
+{"q":"Was findet am Mittwoch statt?","options":["Eine Prüfung","Eine Campusführung","Eine Party"],"correct":1,"explanation":"am Mittwoch eine Campusführung."}]},
+
+{"skill":"grammatik","topic":"Adjektivendungen","text":"Adjektivendungen: Nach einem Artikel hängt die Endung von Genus, Kasus und Artikel ab. Beispiele: ein großer Hund (Nom.), einen großen Hund (Akk.), in einer kleinen Wohnung (Dat.).","questions":[
+{"q":"Ich habe einen ____ Hund.","options":["großen","große","großer"],"correct":0,"explanation":"einen + Akkusativ مذكر: -en."},
+{"q":"Das ist eine ____ Idee.","options":["guten","gute","gutes"],"correct":1,"explanation":"eine + مؤنث مرفوع: -e."},
+{"q":"Sie wohnt in einer ____ Wohnung.","options":["kleine","kleiner","kleinen"],"correct":2,"explanation":"in + Dativ مؤنث: einer kleinen."},
+{"q":"Ich mag den ____ Kaffee.","options":["starken","starke","starker"],"correct":0,"explanation":"den + Akkusativ مذكر: -en."},
+{"q":"Wir kaufen ein ____ Auto.","options":["neue","neues","neuen"],"correct":1,"explanation":"ein + محايد مفعول: -es."}]},
+
+{"skill":"lesen","topic":"Technik","text":"Immer mehr Menschen nutzen ihr Smartphone zum Bezahlen. Im Supermarkt hält man das Handy einfach an das Kassengerät. Das ist schnell und praktisch, aber nicht alle Geschäfte bieten diese Möglichkeit an. Experten empfehlen, den Bildschirm mit einem Passwort zu sichern, damit niemand fremdes Geld ausgeben kann.","questions":[
+{"q":"Wie bezahlt man mit dem Handy im Supermarkt?","options":["Man hält es an das Kassengerät","Man gibt Bargeld ein","Man ruft die Bank an"],"correct":0,"explanation":"man hält das Handy an das Kassengerät."},
+{"q":"Was ist ein Nachteil?","options":["Es ist sehr teuer","Nicht alle Geschäfte bieten es an","Es ist langsam"],"correct":1,"explanation":"nicht alle Geschäfte bieten diese Möglichkeit an."},
+{"q":"Was empfehlen Experten?","options":["Das Handy ausschalten","Immer Bargeld mitnehmen","Den Bildschirm mit einem Passwort sichern"],"correct":2,"explanation":"den Bildschirm mit einem Passwort sichern."}]},
+
+{"skill":"hoeren","topic":"Reisen","text":"Passagiere des Fluges LH 412 nach Wien werden gebeten, sich zum Ausgang B12 zu begeben. Das Boarding beginnt in zehn Minuten. Bitte halten Sie Ihre Bordkarte und Ihren Reisepass bereit. Handgepäck darf höchstens acht Kilogramm wiegen. Größere Taschen müssen aufgegeben werden.","questions":[
+{"q":"Wohin fliegt der Flug LH 412?","options":["Nach Zürich","Nach Wien","Nach Berlin"],"correct":1,"explanation":"Flug LH 412 nach Wien."},
+{"q":"Wann beginnt das Boarding?","options":["In zehn Minuten","In einer Stunde","Sofort"],"correct":0,"explanation":"Das Boarding beginnt in zehn Minuten."},
+{"q":"Wie schwer darf das Handgepäck höchstens sein?","options":["Zwölf Kilogramm","Fünf Kilogramm","Acht Kilogramm"],"correct":2,"explanation":"höchstens acht Kilogramm."}]},
+
+{"skill":"wortschatz","topic":"Umwelt","text":"Wortschatz Umwelt:\nder Müll = النفايات\ntrennen = يفرز\ndie Umwelt = البيئة\nder Klimawandel = التغير المناخي\nsparen = يوفّر\nerneuerbar = متجدد\ndie Verschmutzung = التلوث\nnachhaltig = مستدام","questions":[
+{"q":"In Deutschland muss man den ____ trennen.","options":["Müll","Klimawandel","Pfand"],"correct":0,"explanation":"den Müll trennen = فرز النفايات."},
+{"q":"Solaranlagen und Windräder liefern ____ Energie.","options":["schwere","erneuerbare","lange"],"correct":1,"explanation":"erneuerbare Energie = طاقة متجددة."},
+{"q":"Ich will Strom ____, deshalb schalte ich das Licht aus.","options":["trennen","verschmutzen","sparen"],"correct":2,"explanation":"Strom sparen = توفير الكهرباء."},
+{"q":"Was bedeutet nachhaltig?","options":["Es schützt die Umwelt für die Zukunft","Es ist sehr teuer","Es ist kaputt"],"correct":0,"explanation":"nachhaltig = مستدام، يحافظ على المستقبل."},
+{"q":"Der ____ führt zu höheren Temperaturen auf der Erde.","options":["Mietvertrag","Klimawandel","Termin"],"correct":1,"explanation":"der Klimawandel = التغير المناخي."}]}
+]
